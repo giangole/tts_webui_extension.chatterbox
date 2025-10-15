@@ -29,7 +29,7 @@ dependencies = [
     "safetensors==0.5.3",
     "spacy-pkuseg",
     "pykakasi==2.3.0",
-    "gradio==5.44.1",
+    "gradio==5.5",
 
 ]
 
@@ -39,4 +39,5 @@ Homepage = "https://github.com/rsxdalv/tts_webui_extension.chatterbox"
 [tool.setuptools.packages.find]
 # This will find all namespace packages automatically
 namespaces = true
+
 
